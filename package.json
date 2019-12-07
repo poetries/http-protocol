@@ -1,15 +1,11 @@
 {
-  "name": "http-protocol",
+  "name": "http",
   "version": "1.0.0",
-  "description": "http-protocol",
+  "description": "http",
   "keywords": [
     "js",
-    "http-protocol"
+    "http"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/http-protocol"
-  },
   "main": "index.js",
   "scripts": {
     "dev": "vuepress dev docs --temp .temp",
